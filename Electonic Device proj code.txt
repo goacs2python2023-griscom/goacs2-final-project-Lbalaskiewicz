@@ -1,0 +1,15 @@
+8, off, yes
+12, off, yes
+13, no difference, yes
+15, off, no
+8, off, no 
+9.30, off, no
+12, off, no 
+5, off, no
+13, off, no
+14.30, on, no 
+10, off, no 
+7, no difference, yes
+9, no difference, no
+6.30, off, yes
+7, off, no difference
